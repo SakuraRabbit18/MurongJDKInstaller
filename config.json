@@ -1,0 +1,26 @@
+{
+    "jdk_linux_path": {
+        "8": "./JDK/Linux/jdk-8u202-linux-x64.tar.gz",
+        "11": "./JDK/Linux/jdk-11.0.23_linux-x64_bin.tar.gz",
+        "17": "./JDK/Linux/jdk-17.0.11_linux-x64_bin.tar.gz",
+        "21": "./JDK/Linux/jdk-21_linux-x64_bin.tar.gz"
+    },
+    "jdk_windows_path": {
+        "8": ".\\JDK\\Windows\\jdk-8u202-windows-x64.tar.gz",
+        "11": ".\\JDK\\Windows\\jdk-11.0.23_windows-x64_bin.tar.gz",
+        "17": ".\\JDK\\Windows\\jdk-17.0.11_windows-x64_bin.tar.gz",
+        "21": ".\\JDK\\Windows\\jdk-21_windows-x64_bin.tar.gz"
+    },
+    "jdk_env_var_name": {
+        "8": "JAVA_HOME8",
+        "11": "JAVA_HOME11",
+        "17": "JAVA_HOME17",
+        "21": "JAVA_HOME21"
+    },
+    "installed_jdk_path": {
+        "17": "D:\\SourceCode\\python\\securityTest\\JavaInstaller\\Test\\jdk-17.0.11"
+    },
+    "root_dir": "",
+    "linux_root_dir": "/usr/lib/jvm",
+    "windows_root_dir": "C:\\Program Files\\Java"
+}
