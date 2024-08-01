@@ -18,7 +18,6 @@
         "21": "JAVA_HOME21"
     },
     "installed_jdk_path": {
-        "17": "D:\\SourceCode\\python\\securityTest\\JavaInstaller\\Test\\jdk-17.0.11"
     },
     "root_dir": "",
     "linux_root_dir": "/usr/lib/jvm",
